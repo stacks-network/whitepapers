@@ -1,0 +1,5 @@
+= Stacks Whitepapers
+
+
+* Stacks Nakamoto Paper xref:stacks.adoc[Stacks paper] link:stacks.html[html] link:stacks.pdf[pdf]
+* sBTC Paper xref:sbtc.adoc[sBTC paper] link:sbtc.html[html] link:sbtc.pdf[pdf]
